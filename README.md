@@ -13,6 +13,7 @@ This application allows the user to choose a message, either an affirmaton or ma
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
+![solo gif](https://user-images.githubusercontent.com/119264690/230786807-46ce3195-6f5e-4a4f-b1bf-ad30f209fe17.gif)
 
 
 ### Context:
